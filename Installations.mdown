@@ -9,6 +9,7 @@
 <li>Config Backup</li>
 <li>Config Hot Corners </li>
 <li>Config Trackpad settings </li>
-<li>Install Chrome </li>
+<li>Install Chrome <a href="https://www.google.com/intl/en/chrome/">Download</a> </li>
+<li>Install Dropbox <a href="https://www.dropbox.com/downloading">Download</a> </li>
 
 </ul>
