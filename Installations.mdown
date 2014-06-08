@@ -1,1 +1,14 @@
-Installations
+<h1> Personal Machine Setup </h1>
+
+<h3>Installs</h3>
+
+<b>Basic</b>
+
+<ul>
+<li>Latest Mac OS</li>
+<li>Config Backup</li>
+<li>Config Hot Corners </li>
+<li>Config Trackpad settings </li>
+<li>Install Chrome </li>
+
+</ul>
