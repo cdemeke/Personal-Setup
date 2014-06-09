@@ -14,8 +14,9 @@
 <li>Install Chrome <a href="https://www.google.com/intl/en/chrome/">Download</a> </li>
 <li>Install Adobe Creative Suite</li>
 <li>Install Dropbox <a href="https://www.dropbox.com/downloading">Download</a> </li>
-<li>Install GitHub<a href="https://mac.github.com/">Download</a> </li>
-
+<li>Install GitHub <a href="https://mac.github.com/">Download</a> </li>
+<li>Install Filezilla <a href="https://filezilla-project.org/download.php?type=client">Download</a> </li>
+<li>Install Wunderlist <a href="https://www.wunderlist.com/">Download</a> </li>
 </ul>
 
 
