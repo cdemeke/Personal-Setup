@@ -13,7 +13,7 @@
 
 <li>Install Chrome <a href="https://www.google.com/intl/en/chrome/">Download</a> </li>
 <li>Install Dropbox <a href="https://www.dropbox.com/downloading">Download</a> </li>
-
+<li>Install Open Office <a href="https://www.openoffice.org/download/">Download</a> </li>
 <li>Install Wunderlist <a href="https://www.wunderlist.com/">Download</a> </li>
 </ul>
 
