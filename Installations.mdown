@@ -5,7 +5,7 @@
 <b>Basic</b>
 
 <ul>
-<li>Latest Mac OS</li>
+<li>Update Mac OS</li>
 <li>Config Backup</li>
 <li>Config Hot Corners </li>
 <li>Config Trackpad settings </li>
