@@ -28,7 +28,7 @@
 <li>Disk Inventory X <a href="www.derlien.com/">Download</a> </li>
 </ul>
 
-<b>Development</b>
+<b>Development Tools</b>
 
 <ul>
 <li>Install Adobe Creative Suite</li>
